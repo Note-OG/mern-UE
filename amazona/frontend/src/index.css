@@ -12,6 +12,18 @@ body {
 main {
   flex: 1;
 }
+.Padding1 {
+  background-color: #ffffff;
+  padding: 2rem;
+}
+.Centennial {
+  min-width: 100%;
+  min-height: 100%;
+}
+.Padding {
+  background-color: #ffffff;
+  padding: 3rem;
+}
 .btn-primary {
   background-color: #f0c040;
   color: #000000;

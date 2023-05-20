@@ -48,6 +48,16 @@ function HomeScreen() {
       <Helmet>
         <title>University Enterprise</title>
       </Helmet>
+      <div className="Padding1"></div>
+      <div className="Centennial">
+        <img
+          src="/images/Centennial.jpg"
+          alt="Header"
+          width="100%"
+          height="500%"
+        />
+      </div>
+      <div className="Padding"></div>
       <h1>Featured Products</h1>
       <div className="products">
         {loading ? (

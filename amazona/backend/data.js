@@ -12,7 +12,6 @@ const data = {
       rating: 3,
       numReviews: 10,
       description: 'High Quality Shirt',
-      image: '/images/Pants.jpg', //679px x 829px
     },
     {
       _id: '2',
